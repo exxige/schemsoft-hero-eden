@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="relative min-h-screen overflow-x-hidden overflow-y-visible flex flex-col items-center justify-start">
       {/* Background Image */}
       <img
-        src="/lovable-uploads/a0c3aec6-b3f4-4bfd-b009-55d17c2f18bd.png"
+        src="/lovable-uploads/abe9de09-f238-4e3f-987b-267cbe575410.png"
         alt="Lush mountain island"
         className="absolute inset-0 w-full h-full object-cover pointer-events-none z-0"
         style={{ objectPosition: "center top" }}
@@ -43,4 +43,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
