@@ -19,7 +19,7 @@ const Hero = () => {
       <img
         src="/lovable-uploads/755419da-971c-4f25-aa3e-6de4e4c9cd5b.png"
         alt="Schemsoft logo"
-        className="absolute top-6 left-6 w-14 h-14 rounded-xl shadow-lg bg-white/60 backdrop-blur-md ring-1 ring-black/10 z-20 select-none"
+        className="absolute top-6 left-6 w-14 h-14 rounded-xl shadow-lg backdrop-blur-md ring-1 ring-black/10 z-20 select-none"
         draggable={false}
       />
       {/* Centered Hero Text */}
@@ -38,3 +38,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
