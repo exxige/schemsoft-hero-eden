@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="relative min-h-screen overflow-x-hidden overflow-y-visible flex flex-col items-center justify-start">
       {/* Background Image */}
       <img
-        src="/lovable-uploads/96ef85ca-a281-46c3-8344-8d8852ea0c70.png"
+        src="/lovable-uploads/a0c3aec6-b3f4-4bfd-b009-55d17c2f18bd.png"
         alt="Lush mountain island"
         className="absolute inset-0 w-full h-full object-cover pointer-events-none z-0"
         style={{ objectPosition: "center top" }}
@@ -18,7 +18,7 @@ const Hero = () => {
       {/* Logo */}
       <div className="absolute top-0 left-0 z-20 p-6 flex items-center">
         <img
-          src="/lovable-uploads/591b5ade-2361-4960-ba27-e91f63d476de.png"
+          src="/lovable-uploads/755419da-971c-4f25-aa3e-6de4e4c9cd5b.png"
           alt="Schemsoft logo"
           className="w-14 h-14 rounded-xl shadow-lg bg-white/60 backdrop-blur-md ring-1 ring-black/10"
           style={{}}
@@ -43,3 +43,4 @@ const Hero = () => {
 };
 
 export default Hero;
+

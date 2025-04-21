@@ -35,7 +35,7 @@ const EdenCard = () => {
       <div className="w-full flex flex-col items-center mt-3">
         <div className="w-[80%] mx-auto -mb-36 sm:-mb-44 pointer-events-none select-none drop-shadow-xl">
           <img
-            src="/lovable-uploads/77a8f15f-0848-4dab-b6d1-59c35621850e.png"
+            src="/lovable-uploads/a0c3aec6-b3f4-4bfd-b009-55d17c2f18bd.png"
             alt="Eden.pm Focus Space Preview"
             className="rounded-2xl object-cover w-full h-[240px] sm:h-[300px] shadow-lg border border-white/70"
             style={{
@@ -52,3 +52,4 @@ const EdenCard = () => {
 };
 
 export default EdenCard;
+
